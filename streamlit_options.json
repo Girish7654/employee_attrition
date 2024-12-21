@@ -1,0 +1,88 @@
+{
+  "slider_fields": {
+    "Age": [
+      18,
+      60
+    ],
+    "JobLevel": [
+      1,
+      5
+    ],
+    "JobSatisfaction": [
+      1,
+      4
+    ],
+    "MonthlyIncome": [
+      1009,
+      19999
+    ],
+    "JobInvolvement": [
+      1,
+      4
+    ],
+    "EnvironmentSatisfaction": [
+      1,
+      4
+    ],
+    "DailyRate": [
+      102,
+      1499
+    ],
+    "HourlyRate": [
+      30,
+      100
+    ],
+    "NumCompaniesWorked": [
+      0,
+      9
+    ],
+    "OverTime": [
+      0,
+      1
+    ],
+    "CompensationPercentSalaryHike": [
+      11,
+      25
+    ]
+  },
+  "single_select_fields": {
+    "Gender": [
+      "Female",
+      "Male"
+    ],
+    "JobRole": [
+      "Healthcare Representative",
+      "Human Resources",
+      "Laboratory Technician",
+      "Manager",
+      "Manufacturing Director",
+      "Research Director",
+      "Research Scientist",
+      "Sales Executive",
+      "Sales Representative"
+    ],
+    "MaritalStatus": [
+      "Divorced",
+      "Married",
+      "Single"
+    ],
+    "Department": [
+      "Human Resources",
+      "Research & Development",
+      "Sales"
+    ],
+    "EducationField": [
+      "Human Resources",
+      "Life Sciences",
+      "Marketing",
+      "Medical",
+      "Other",
+      "Technical Degree"
+    ],
+    "BusinessTravel": [
+      "Non-Travel",
+      "Travel_Frequently",
+      "Travel_Rarely"
+    ]
+  }
+}
